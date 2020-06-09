@@ -31,3 +31,14 @@
         grid-auto-rows: 3fr;
     }
 }
+@media (max-width: 500px){
+    .contacto-main img {
+        width: 100%;
+        margin: 0;
+    }
+}
+@media (min-height:667px){
+    .contacto-main img{
+        width: 30%;
+    }
+}

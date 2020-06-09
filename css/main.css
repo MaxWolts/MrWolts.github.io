@@ -256,6 +256,16 @@ footer p {
 .proyect-container {
     padding: 0 5px;
 }
+.contacto-main {
+    text-align: center;
+}
+.contacto-main p {
+    margin: 28px;
+}
+.contacto-main img {
+    width: 300px;
+    margin: 29px 28px;
+}
 /* hover active*/
 header .profile-link a:hover:active {
     color: black;
